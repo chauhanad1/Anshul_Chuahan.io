@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Anshul Chauhan"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Anshul Chauhan"
+description              : "A portfolio of Anshul Chauhan"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,15 +93,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Anshul Chauhan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Like majority of students around the world, I am also attracted towards infinte potential in the domain of computer science.
+
+computer science gave me a new way to think about stuffs which we do on day to day basis and has increased my reasoning capabilities also helping me find logical alternatives of various situations.
+	
+I am an enthusiast who loves to try
+things out of my comfort zones which keeps me moving in life. I am a nature lover who also likes to play sports which makes me fitter, healthier and happier as a person.
+
+I believe team work is the key to success for any project. Hence along with technical abilities, I think the soft skill are a major part of person's life and need to be developed too.
+
+As of now I am currently working on full stack developement and android development along with good hold on data structures and algorithms."
+  location         : "Nagpur"
   email            :
   links:
-    - label: "Email"
+    - label: "chauhananshulofficial@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:chauhananshulofficial@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -111,9 +120,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: "Anshul Chauhan"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      # url: "https://github.com/chauhanad1"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -279,3 +288,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
