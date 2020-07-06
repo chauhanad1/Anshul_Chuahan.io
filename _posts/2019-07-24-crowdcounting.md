@@ -1,13 +1,13 @@
 ---
 title: " A project for crowd disaster management"
 date: 2019-07-24
-tags: [machine learning, RCNN, Transfer Learning]
+tags: [Machine Learning]
 header:
     image: "/images/crowdcounting/img1.jpg"
-excerpt: "Machine Learning"
+excerpt: "Machine Learning, RCNN, Transfer Learning"
 ---
 
- # Crowd Counting project
+ # Crowd Counting project #
 
  > It is a project to manage crowd disasters which are very common in a country like India where population density is very high. Any crowd disaster can take many life in such places. So, it is very important to keep a check in the number of people in a public area so that crowd can be managed. Here comes our project to the rescue. It identifies and counts the number of persons in the area which can generate a trigger alarm if the number reaches more than a threshold value.
 
