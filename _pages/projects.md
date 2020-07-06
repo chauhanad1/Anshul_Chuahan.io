@@ -4,7 +4,7 @@ permalink: /projects/
 title: "Projects at a glance"
 author-profile: true
 header:
-    image: "/images/about.jpg"
+    image: "/images/project.jpg"
 ---
 
 {% include base_path %}
