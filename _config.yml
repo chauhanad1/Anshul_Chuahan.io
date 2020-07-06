@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Anshul Chauhan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/ac.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "A computer Science graduate who wants to leave his mark on space time continuum."
   location         : "Nagpur, India"
   email            : "chauhananshulofficial@gmail.com"
