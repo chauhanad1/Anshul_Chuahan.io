@@ -3,7 +3,7 @@ title: " Text Editor "
 date: 2020-02-10
 tags: [Design Patterns]
 header:
-    image: "/images/text_editor/main_pic.jpg"
+    image: "/images/texteditor/main_pic.jpg"
 excerpt: "Design patterns"
 ---
 
