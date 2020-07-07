@@ -23,6 +23,7 @@ excerpt: "Machine Learning, RCNN, Transfer Learning"
  3. Generating records for training.
     1. To use less processing time we again converted the .xml file to .csv
     2. The code for conversion is:
+
      ```python
     def main():
         for folder in ['train', 'test']:
@@ -30,17 +31,16 @@ excerpt: "Machine Learning, RCNN, Transfer Learning"
             xml_df = xml_to_csv(image_path)
             xml_df.to_csv(('images/'+folder+'_labels.csv'), index=None)
             print('Successfully converted xml to csv.')
-
     ```
     3. Then the csv files are converted to TFrecords as below:
+    
     ```python
     def class_text_to_int(row label):
         if row_label == 'person':
             return 1
         else:
             None
-
-    ```
+     ```
  4. Configuring Training.
     1. In this step a labelmap is created whose number is same as the TFrecord file.
     2. faster_rcnn_inception_v2_coco model is used in the project and few tweaks are done in the config file to suit   our needs in the project.
