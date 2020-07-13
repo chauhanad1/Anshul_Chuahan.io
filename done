@@ -1,0 +1,125 @@
+[33mcommit 0016df4e47de845f4fec2c798bff189873b05852[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Mon Jul 13 23:28:43 2020 +0530
+
+    adding project clever
+
+[33mcommit 040ce440aab93b9dfa3ca6407d32ed80dca823d6[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Mon Jul 13 21:40:13 2020 +0530
+
+    adding content to retailer project
+
+[33mcommit e43ea50fb4462b8b94ddc2a45659f73380ff164b[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Wed Jul 8 02:17:42 2020 +0530
+
+    image in text editor project
+
+[33mcommit c06fbbd20b72524dd9e2fd1bf306925b7b52df23[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Wed Jul 8 01:54:26 2020 +0530
+
+    adding text editor project
+
+[33mcommit 8fb1ca97d2494f18a6e9c491a73a946b966598f3[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Wed Jul 8 00:49:57 2020 +0530
+
+    New projects added
+
+[33mcommit 991cbad7b9b05b7d1d7c753c0981efc8b0a6aa3d[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Wed Jul 8 00:00:17 2020 +0530
+
+    fine tuning crowd counting project
+
+[33mcommit 2913eb95bd84c4b036a460a040b6f07e5d0d8020[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Tue Jul 7 20:42:56 2020 +0530
+
+    python code block error fixed in crowd counting project
+
+[33mcommit 8a94ed10e33cfffd6e3c20bfe6488471ce8b6219[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Tue Jul 7 20:38:53 2020 +0530
+
+    Updation of crowd counting project
+
+[33mcommit 28f172e2105458745a84dc9b5e4db45118828415[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Tue Jul 7 01:12:03 2020 +0530
+
+    changing tags
+
+[33mcommit 9948da0c1895f169e37993a14f0584a5132a82b0[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Tue Jul 7 00:50:37 2020 +0530
+
+    Changing excerpts and heading style
+
+[33mcommit 58df809ca5971f6d40fbfc2db02cf9c42431ea1c[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Tue Jul 7 00:41:31 2020 +0530
+
+    post updated again
+
+[33mcommit 99edcefcf08208d04d79c07dcfb6214d64df4471[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Tue Jul 7 00:30:31 2020 +0530
+
+    updates on post page
+
+[33mcommit 4bcaf68310f9dbef4f61d9a691c2932f1c51b4ba[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Tue Jul 7 00:28:55 2020 +0530
+
+    new post added
+
+[33mcommit 8a80f235c70afb42ef1aa3a75288fcc3946a6dac[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Mon Jul 6 14:48:50 2020 +0530
+
+    changing projects.md
+
+[33mcommit 5181537fb614ee93c9ce5de4d070223a4c7b7e9d[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Mon Jul 6 14:25:15 2020 +0530
+
+    resolving error in projects.md
+
+[33mcommit 814ae5aa78c5a4ef91b385d4f84fcf42b1fff963[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Mon Jul 6 14:17:31 2020 +0530
+
+    adding about and projects tab
+
+[33mcommit 87791527160a69a90396b8147abe51cb5a385441[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Mon Jul 6 13:23:24 2020 +0530
+
+    Changing the contact options in config.yml
+
+[33mcommit fd181cdec9d9012d34ac1c879dcb14f80c06d84e[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Mon Jul 6 13:15:39 2020 +0530
+
+    changed description in config.yml
+
+[33mcommit a2e2bbcfdf0f9bf2968e40eb1095800a620bee1a[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Mon Jul 6 12:49:14 2020 +0530
+
+    getting started with the page
+
+[33mcommit 6d5413f9ca1e6743ee90313a1ed4a9b2afa22069[m
+Author: anshul <anshulchauhan19981@gmail.com>
+Date:   Mon Jul 6 12:23:37 2020 +0530
+
+    Initialization of Anshul.io
+
+[33mcommit 389b02a1ae3cc2c0838da7a8490da427e3b3d3f7[m
+Author: Anshul Chauhan <39293990+chauhanad1@users.noreply.github.com>
+Date:   Mon Jul 6 12:08:18 2020 +0530
+
+    Initial commit
