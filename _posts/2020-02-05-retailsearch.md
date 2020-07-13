@@ -16,6 +16,7 @@ The Project has 3 modules:
 
 1. **Front End** 
 > Front end is created using Bootstrap libraries and java script,Html and CSS. There will be a login page, sign up page and the website. They are designed as follows:
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/retailsearch/login.png" alt="architecture">
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/retailsearch/signup.png" alt="architecture">
